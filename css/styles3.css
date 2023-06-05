@@ -1,0 +1,53 @@
+/* PAGINA CONTACTO */
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 111110;
+}
+
+form li+li {
+    margin-top: 2em;
+}
+
+
+
+input,
+textarea {
+    
+    font: 1em sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+    border-color: #000;
+}
+
+textarea {
+    vertical-align: top;
+    height: 10em;
+    width: 30em;
+}
+
+.button {
+    padding-left: 950px;
+    width: auto;
+    text-align: right;
+    margin-right: 15em;
+
+}
+
+
+
+
+
